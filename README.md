@@ -57,3 +57,8 @@ $ sudo chsh -s $(which zsh) $(whoami)
 * git init <directory>
 * git init --bare <directory>
 
+* git add .
+* git commit -m "README added"
+* git remote add origin https://github.com/optixlab/newVM.git
+* git push -u origin master
+
